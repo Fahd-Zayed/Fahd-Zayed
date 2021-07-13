@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @Fahd-Zayed
-📚 Studying Computer Science at FCIS - ASU year 2.
-👨🏻‍💻 Languages and Skills:
-C++
+## 👋 Hi, I’m @Fahd-Zayed
+
+     📚 Studying Computer Science at FCIS - ASU year 2.
+
+## 👨🏻‍💻 Languages and Skills:
+
+- C++
+- Java
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
