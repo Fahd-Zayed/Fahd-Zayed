@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @Fahd-Zayed
 
-     📚 Studying Computer Science at FCIS - ASU year 2.
+     📚 junior Student at Faculty of Computer Science, Ain Shams University 3rd year.
 
 ## 👨🏻‍💻 Languages and Skills:
 
