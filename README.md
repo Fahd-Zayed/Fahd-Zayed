@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @Fahd-Zayed
 
-     📚 junior Student at Faculty of Computer Science, Ain Shams University.
+     📚 Senior Student at Faculty of Computer Science, Ain Shams University.
 
 ## 👨🏻‍💻 Languages and Skills:
 
