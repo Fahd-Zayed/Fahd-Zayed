@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Fahd Zayed</h1>
-<h3 align="center">A Passionate Data Analyst at SABIS® Educational Services from Cairo, Egypt</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
